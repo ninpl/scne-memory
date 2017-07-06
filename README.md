@@ -8,4 +8,4 @@
 ---
 Control de carga de escenas asyncronamente.
 
-![preview](https://github.com/MoonAntonio/scne-memory/blob/master/res/preview.gif?raw=true)
+<p align="center"><img src="https://github.com/MoonAntonio/scne-memory/blob/master/res/preview.gif?raw=true"></p>
