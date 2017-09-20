@@ -1,3 +1,4 @@
+
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/scne-memory.svg)](https://github.com/MoonAntonio/scne-memory/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-2017.1.1p2-brightgreen.svg)](https://unity3d.com/es)
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MoonAntonio/scne-memory)
@@ -10,4 +11,4 @@
 ---
 Control de carga de escenas asyncronamente.
 
-![preview](https://github.com/MoonAntonio/scne-memory/blob/master/res/preview.gif?raw=true)
+<p align="center"><img src="https://github.com/MoonAntonio/scne-memory/blob/master/res/preview.gif?raw=true"></p>
