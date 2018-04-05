@@ -12,3 +12,12 @@
 Control de carga de escenas asyncronamente.
 
 <p align="center"><img src="https://github.com/MoonAntonio/scne-memory/blob/master/res/preview.gif?raw=true"></p>
+
+ ---
+## ¿Como usar?
+
+* Descargar [Unity3D Engine][99]
+* Abrir el proyecto en la escena Start
+* Ejecutar la escena
+
+[99]: https://unity3d.com
